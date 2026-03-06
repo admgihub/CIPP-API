@@ -1,0 +1,9 @@
+{
+  "Name": "Bitdefender-Mesh Email Security",
+  "_MxComment": "Bitdefender/Mesh hosted MX servers",
+  "MxMatch": "emailsecurity.app",
+  "_SpfComment": "Check SPF include records for Bitdefender/Mesh domains",
+  "SpfInclude": "",
+  "_DkimComment": "Add DKIM selectors if configured for Bitdefender/Mesh",
+  "Selectors": [""]
+}
